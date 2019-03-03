@@ -8,7 +8,7 @@ This is a Gallery that uses jQuery and Css Grid.
 This is a gallery that move img to the frame above, it can be used for selecting items or just moving img to a second place. 
 Under you will finde a screenshot of what is looks like, all the styling is in the CSS file.  
 
-<img width="500" alt="skjermbilde 2019-03-03 kl 13 44 22" src="https://user-images.githubusercontent.com/32140076/53695865-3ba28580-3dc1-11e9-9328-749462e6c540.png"><br><img width="500" alt="skjermbilde 2019-03-03 kl 14 34 33" src="https://user-images.githubusercontent.com/32140076/53695898-84f2d500-3dc1-11e9-8bff-b337ec654797.png">
+<img width="200" alt="skjermbilde 2019-03-03 kl 13 44 22" src="https://user-images.githubusercontent.com/32140076/53695865-3ba28580-3dc1-11e9-9328-749462e6c540.png"><img width="200" alt="skjermbilde 2019-03-03 kl 14 34 33" src="https://user-images.githubusercontent.com/32140076/53695898-84f2d500-3dc1-11e9-8bff-b337ec654797.png">
 
 
 
